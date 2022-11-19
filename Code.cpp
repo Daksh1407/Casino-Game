@@ -10,8 +10,8 @@ int main()
 {   
     string playerName;
     int balance ;
-    cout << "**************** WELCOME TO CASINO GAME ************************" << endl;
-    cout << "**************** Developed by Piyush Kumar ********************" << endl;
+    cout << "\n\t\t\t\t\t\t=================================== WELCOME TO CASINO GAME ===================================" << endl;
+    cout << "\n\t\t\t\t\t\t\t========================= Developed by Piyush Kumar =========================" << endl;
     //cout << "\n\t\t========WELCOME TO CASINO WORLD=======\n\n";
     cout << "\n\nWhat's your Name : ";
     getline(cin, playerName);
